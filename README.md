@@ -539,6 +539,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 **experiment1(b):**
 
+<img width="500" height="800" alt="5692d99a-b2d7-48e7-b079-be859eb1aefb" src="https://github.com/user-attachments/assets/3817adf6-248a-4c0e-8c29-d82c785990f8" />
 
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/07295a7f-b6ff-4bc5-a4ed-6893862b589d" />
 
